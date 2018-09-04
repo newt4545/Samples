@@ -1,0 +1,10 @@
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Adam\Desktop\DOTNET Class\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
